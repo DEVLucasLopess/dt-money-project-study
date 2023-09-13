@@ -1,0 +1,76 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14999,
+      "createAt": "2023-09-11T14:31:32.442Z"
+    },
+    {
+      "id": 2,
+      "description": "Pizza",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 55,
+      "createAt": "2023-09-11T14:31:32.442Z"
+    },
+    {
+      "id": 3,
+      "description": "PS5",
+      "type": "outcome",
+      "category": "lazer",
+      "price": 1800,
+      "createAt": "2023-09-11T14:31:32.442Z"
+    },
+    {
+      "id": 4,
+      "description": "Site frella",
+      "type": "income",
+      "category": "Venda",
+      "price": 2000,
+      "createAt": "2023-09-11T14:31:32.442Z"
+    },
+    {
+      "id": 5,
+      "description": "frella mercadinho",
+      "type": "income",
+      "category": "Venda",
+      "price": 800,
+      "createAt": "2023-09-11T14:31:32.442Z"
+    },
+    {
+      "description": "Canelinha dev",
+      "category": "venda",
+      "price": 5000,
+      "type": "income",
+      "createAt": "2023-09-11T23:35:31.244Z",
+      "id": 6
+    },
+    {
+      "description": "sala 1305B",
+      "category": "compra",
+      "price": 5000,
+      "type": "outcome",
+      "createAt": "2023-09-11T23:39:28.848Z",
+      "id": 7
+    },
+    {
+      "description": "recebi meu salário",
+      "category": "salario",
+      "price": 3500,
+      "type": "income",
+      "createAt": "2023-09-11T23:42:19.162Z",
+      "id": 8
+    },
+    {
+      "description": "Iogurte de banana",
+      "category": "alimetação",
+      "price": 4,
+      "type": "outcome",
+      "createAt": "2023-09-12T00:07:30.132Z",
+      "id": 9
+    }
+  ]
+}
