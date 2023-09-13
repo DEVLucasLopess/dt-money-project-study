@@ -1,5 +1,9 @@
 # React + TypeScript + Vite
 
+Para rodas o porjeto, instale o npm.
+rodar projeto: npm rund dev
+Rodas o json-server: npm run dev:server
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
